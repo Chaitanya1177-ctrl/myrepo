@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f3f3;
+    text-align: center;
+    padding-top: 50px;
+}
+
+p {
+    background-color: blueviolet;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+    font-size: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+}
